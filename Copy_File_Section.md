@@ -24,6 +24,8 @@ diff mytxtfile.txt CopiedFrommytxt.txt
 ```
 awk 'NR>=START_LINE && NR<=END_LINE' source_file.txt > destination_file.txt
 ```
+NR represents the line number.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7a47e976054711e5a28786981962f3d0b1f56cb1/Images/Section_Copy4.jpg)<br>
+### 3. If we add >> it creates a new file and then copies the file section to it.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7a47e976054711e5a28786981962f3d0b1f56cb1/Images/Section_Copy5.jpg)<br>
 -AK
