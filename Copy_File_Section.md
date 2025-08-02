@@ -5,7 +5,7 @@
 ### 1. Create a text file using your favorite text editor.
 ### 2. We can copy the section of the original file to another file using the following command:
 ```
-sed -n .txt 
+sed -n 'start_line , end_linep' source_file.txt > destination_file.txt
 ```
 ![]()<br>
 ### 3. Now, we can move all the files to our desired directory except the file that we want to be excluded from the move.
