@@ -20,5 +20,6 @@ diff mytxtfile.txt CopiedFrommytxt.txt
 ```
 
 ```
-
+![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7a47e976054711e5a28786981962f3d0b1f56cb1/Images/Section_Copy4.jpg)<br>
+![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7a47e976054711e5a28786981962f3d0b1f56cb1/Images/Section_Copy5.jpg)<br>
 -AK
