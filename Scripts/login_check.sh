@@ -12,7 +12,6 @@ echo "Present Working Directory : $(pwd)"
 echo "Current filesystem Utilization :"
 echo -e "\n"
 df -hT
-echo -e "\n"
 #
 # Signing off: AK
 #
