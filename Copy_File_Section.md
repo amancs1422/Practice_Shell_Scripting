@@ -28,4 +28,11 @@ NR represents the line number.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7a47e976054711e5a28786981962f3d0b1f56cb1/Images/Section_Copy4.jpg)<br>
 ### 3. If we add >> it creates a new file and then copies the file section to it.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7a47e976054711e5a28786981962f3d0b1f56cb1/Images/Section_Copy5.jpg)<br>
+
+## Tip: 
+If you want to see the line numbers displayed in the output of cat command add the -n flag.
+```
+cat -n filename.txt
+```
+
 -AK
