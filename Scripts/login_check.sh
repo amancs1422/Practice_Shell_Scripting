@@ -7,9 +7,15 @@
 # Version: 1.0
 #
 echo "Current Date and Time : $(date)"
+echo -e "\n"
 echo "Current User : $(whoami)"
+echo -e "\n"
 echo "Present Working Directory : $(pwd)"
-echo "Current filesystem Utilization : $(df -hT)"
+echo -e "\n"
+echo "Current filesystem Utilization :"
+echo -e "\n"
+df -hT
+echo -e "\n"
 #
 # Signing off: AK
 #
