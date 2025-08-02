@@ -14,9 +14,9 @@ We can see the difference between the source and destination file in the followi
 ```
 diff mytxtfile.txt CopiedFrommytxt.txt
 ```
-If we add >> it creates a new file and then copies the file section to it.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/95956a2a789db9c9cd448d9c5d0daf33755c3a84/Images/Section_Copy2.jpg)<br>
-
+If we add >> it creates a new file and then copies the file section to it.
+![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7a47e976054711e5a28786981962f3d0b1f56cb1/Images/Section_Copy3.jpg)<br>
 ```
 
 ```
