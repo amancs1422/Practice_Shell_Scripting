@@ -1,5 +1,6 @@
 # How to copy a particular section of one file to another file?
 
+### There are several methods of achieving this.
 ### 1. Create a text file using your favorite text editor.
 ### 2. We can copy the contents of the original file to several other files using the following command:
 ```
