@@ -7,6 +7,7 @@
 ```
 sed -n 'start_line , end_linep' source_file.txt > destination_file.txt
 ```
+The p flag prints the matching lines, and -n suppresses default output.
 ![]()<br>
 ### 3. Now, we can move all the files to our desired directory except the file that we want to be excluded from the move.
 ```
