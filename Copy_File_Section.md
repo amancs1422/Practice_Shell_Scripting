@@ -10,12 +10,12 @@ sed -n 'start_line , end_linep' source_file.txt > destination_file.txt
 ![]()<br>
 ### 3. Now, we can move all the files to our desired directory except the file that we want to be excluded from the move.
 ```
-find . -maxdepth 1 -type f -name "*.txt" ! -name "file_tobe_excluded.txt" -print0 | xargs -0 mv -t path/to/destination/
+
 ```
 ![]()<br>
 ### Alternate method: 
 ```
-find . -maxdepth 1 -type f -name "*.txt" ! -name "file_tobe_excluded.txt" -exec mv {} path/to/destination/ \;
+
 ```
 
 -AK
