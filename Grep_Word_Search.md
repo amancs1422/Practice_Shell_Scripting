@@ -6,5 +6,5 @@
 ### 3. Voila!!! You will get the desired output.
 ![](https://github.com/amancs1422/Practice_Linux/blob/main/Images/Grep_Word_Search_Output.jpg)<br>
 
--AK
+-Aman Kumar
 
