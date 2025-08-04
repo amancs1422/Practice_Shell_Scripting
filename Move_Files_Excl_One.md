@@ -16,4 +16,4 @@ find . -maxdepth 1 -type f -name "*.txt" ! -name "file_tobe_excluded.txt" -print
 find . -maxdepth 1 -type f -name "*.txt" ! -name "file_tobe_excluded.txt" -exec mv {} path/to/destination/ \;
 ```
 
--AK
+-Aman Kumar
