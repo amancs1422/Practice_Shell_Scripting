@@ -11,4 +11,4 @@ The curl command is a command-line tool and library for transferring data with U
 
 curl is powered by libcurl for all transfer-related features.
 
--Aman
+-Aman Kumar
