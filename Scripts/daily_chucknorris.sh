@@ -1,6 +1,6 @@
 #
 # Script Name: login_check.sh
-# Description: This script does the first preliminary checks once we logon to the terminal.
+# Description: This script generates a random Chuck Norris joke every time its executed. 
 # Author: Aman Kumar
 # Date: 2025-08-01
 # Version: 1.0
