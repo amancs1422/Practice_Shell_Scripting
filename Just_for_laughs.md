@@ -9,4 +9,4 @@ curl -H "Accept : text/plain" https://icanhazdadjoke.com/
 
 The curl command is a command-line tool and library for transferring data with URL syntax. It is widely used for sending and receiving data over various network protocols, including HTTP, HTTPS, FTP, SFTP, and more.
 
-curl is powered by libcurl for all transfer-related features.
+curl is powered by libcurl for all transfer-related features
