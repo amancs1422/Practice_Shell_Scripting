@@ -6,7 +6,7 @@
 # Contact: amancs1422@gmail.com
 # Date: 2027-07-25
 #
-echo "System Uptim:"
+echo "System Uptime"
 uptime
 echo -e "\n"
 echo "System Information:"
