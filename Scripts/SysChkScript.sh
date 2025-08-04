@@ -5,7 +5,7 @@
 # Author: Aman Kumar
 # Contact: amancs1422@gmail.com
 # Date: 2027-07-25
-#
+# Version: 1.0
 echo "System Uptime"
 uptime
 echo -e "\n"

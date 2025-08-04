@@ -2,6 +2,7 @@
 # Script Name: login_check.sh
 # Description: This script does the first preliminary checks once we logon to the terminal.
 # Author: Aman Kumar
+# Contact: amancs1422@gmail.com
 # Date: 2025-07-30
 # Version: 1.0
 #
