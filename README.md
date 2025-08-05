@@ -1,2 +1,3 @@
 # Practice_Shell _Scripting
-This repo will be used for practicing shell scripting and finding solutions for problems faced in my day to day learning journey.
+This repository will be used to practice shell scripting 
+and finding solutions to the problems faced in my day to day learning journey.
