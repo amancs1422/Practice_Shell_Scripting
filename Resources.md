@@ -1,11 +1,10 @@
 <!-- Author: Aman Kumar -->
 #
 ### This markdown file will be utilized to keep track of the resources I have utilized in my learning journey for Shell Scripting.
-
+<!-- Leaving a blank line after summary is very important for the list items to be in sepearate lines.-->
 <details>
   <summary>Markdown Syntax</summary>
 
-    []: Leaving a blank space is very important here.
   1. [Daring Fireball MD Syntax](https://daringfireball.net/projects/markdown/syntax)
   2. [Github Docs Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   3. [Markdown Hacks](https://www.markdownguide.org/hacks/)
