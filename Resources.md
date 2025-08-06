@@ -5,6 +5,7 @@
 <details>
   <summary>Markdown Syntax</summary>
 
+    []: Leaving a blank space is very important here.
   1. [Daring Fireball MD Syntax](https://daringfireball.net/projects/markdown/syntax)
   2. [Github Docs Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   3. [Markdown Hacks](https://www.markdownguide.org/hacks/)
