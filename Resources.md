@@ -11,7 +11,6 @@
 
 <details>
   <summary>Adding comments in markdown:</summary>
-
   1. [How to comment code in Markdown – James Tharpe](https://www.jamestharpe.com/code-comments-markdown/)  
   2. [YT Markdown Comments](https://youtu.be/J8r22AJ0PFw)
 
