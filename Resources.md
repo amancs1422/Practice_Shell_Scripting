@@ -23,9 +23,9 @@
 <details>
     <summary>Creating Symbolic Links:</summary>
 
-    1. [Learn Linux TV - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
-    2. [Concept of Hard and Soft Links](https://youtu.be/4-vye3QFTFo)
-    3. [Create a symbolic link quickly](https://www.youtube.com/watch?v=sNb4bBZrqvY&pp=ygUYY3JlYXRpbmcgYSBsaW5rIGluIGxpbnV4)
+1. [Learn Linux TV - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
+2. [Concept of Hard and Soft Links](https://youtu.be/4-vye3QFTFo)
+3. [Create a symbolic link quickly](https://www.youtube.com/watch?v=sNb4bBZrqvY&pp=ygUYY3JlYXRpbmcgYSBsaW5rIGluIGxpbnV4)
 </details>
 <!-- -->
 <!-- -->
