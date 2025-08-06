@@ -10,10 +10,13 @@
 </details>
 
 <details>
-    <summary>Adding comments in markdown:</summary>
-    1. https://www.jamestharpe.com/code-comments-markdown/  
-    2. https://youtu.be/J8r22AJ0PFw
+  <summary>Adding comments in markdown:</summary>
+
+  1. [How to comment code in Markdown – James Tharpe](https://www.jamestharpe.com/code-comments-markdown/)  
+  2. [YouTube video on Markdown comments](https://youtu.be/J8r22AJ0PFw)
+
 </details>
+
 
 
 #### Creating Symbolic Links:
