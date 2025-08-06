@@ -1,4 +1,6 @@
 <!-- Author: Aman Kumar -->
+<!-- Created to record a comprehensive list of resources I have utilized to learn this valuable skill. -->
+<!-- Date: 06-Aug-2025 -->
 #
 ### This markdown file will be utilized to keep track of the resources I have utilized in my learning journey for Shell Scripting.
 <!-- Leaving a blank line after summary is very important for the list items to be in sepearate lines.-->
@@ -21,3 +23,7 @@
 
 
 #### Creating Symbolic Links:
+
+<!-- -->
+<!-- -->
+<!-- -->
