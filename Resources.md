@@ -11,8 +11,9 @@
 
 <details>
     <summary>Adding comments in markdown:</summary>
-    - https://www.jamestharpe.com/code-comments-markdown/
-    - https://youtu.be/J8r22AJ0PFw
-</details> 
+    1. https://www.jamestharpe.com/code-comments-markdown/  
+    2. https://youtu.be/J8r22AJ0PFw
+</details>
+
 
 #### Creating Symbolic Links:
