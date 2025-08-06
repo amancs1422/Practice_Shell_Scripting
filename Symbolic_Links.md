@@ -6,7 +6,9 @@
 ```
 realpath filename
 ```
+![]()
 ### Step 2: Use the following command to create a symbolic link to your target directory:
 ```
 ln -s /path/to/target link_name
 ```
+![]()
