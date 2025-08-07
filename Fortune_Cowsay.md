@@ -14,4 +14,5 @@
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay5.jpg)
 #### Step 6: We can display other characters as well. Following is an example:
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay6.jpg)
-####
+
+-AK
