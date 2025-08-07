@@ -4,16 +4,14 @@
 
 #### Step 1: Please install the "fortune" software package if not present on your system.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay1.jpg)
-#### Step 1: Please install the "fortune" software package if not present on your system.
+#### Step 1: Please install the "cowsay" software package if not present on your system.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay2.jpg)
-####
+#### Step 3: You can check and verify if the cowsay command works properly.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay3.jpg)
+#### Step 4: You can check and verify if the fortune command works properly.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay4.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay5.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay6.jpg)
-
-
-####
 ####
 ####
 ####
