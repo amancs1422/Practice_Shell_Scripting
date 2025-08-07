@@ -32,7 +32,7 @@
   <summary>
 
   1. [Geeks for Geeks - Cowsay and Fortune](https://www.geeksforgeeks.org/linux-unix/cool-custom-welcome-messages-linux-terminal/)
-  2. 
+  2. [What all can be displayed other than the cow?](https://www.geeksforgeeks.org/linux-unix/cool-custom-welcome-messages-linux-terminal/)
   </summary>
 </details>
 <!-- -->
