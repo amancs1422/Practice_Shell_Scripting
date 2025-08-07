@@ -27,6 +27,14 @@
 2. [Concept of Hard and Soft Links](https://youtu.be/4-vye3QFTFo)
 3. [Create a symbolic link quickly](https://www.youtube.com/watch?v=sNb4bBZrqvY&pp=ygUYY3JlYXRpbmcgYSBsaW5rIGluIGxpbnV4)
 </details>
+
+<details>
+  <summary>
+
+  1. [Geeks for Geeks - Cowsay and Fortune](https://www.geeksforgeeks.org/linux-unix/cool-custom-welcome-messages-linux-terminal/)
+  2. 
+  </summary>
+</details>
 <!-- -->
 <!-- -->
 <!-- -->
