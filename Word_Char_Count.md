@@ -15,3 +15,5 @@ wc -w
 ![](https://github.com/amancs1422/Practice_Linux/blob/main/Images/Words_Char_Count.jpg)<br>
 
 -Aman Kumar
+<!---->
+<!-- End of File -->
