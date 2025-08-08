@@ -19,4 +19,5 @@
 -AK
 
 <!--Refer to this link to find out what other characters can be displayed https://www.geeksforgeeks.org/linux-unix/cool-custom-welcome-messages-linux-terminal/ -->
+<!---->
 <!-- End of File -->
