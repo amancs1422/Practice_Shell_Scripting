@@ -13,4 +13,5 @@ ln -s /path/to/target link_name
 ```
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/main/Images/Symbolic_Links2.jpg)
 
-<!-- End of file -->
+<!---->
+<!-- End of File -->
