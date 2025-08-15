@@ -16,7 +16,9 @@
 #### Step 6: We can display other characters as well. Following is an example:
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay6.jpg)
 
-We can add beautiful welcome messages for the Linux machine using this method if we add these kind of commands in the "-profile" file.
+We can add beautiful welcome messages for the Linux machine using this method if we add these kind of commands in the "-profile" file. Following is an example:
+
+![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/cfd90bf03f14156a5e89fc99031501ff62be8b27/Images/Fortune_Cowsay7.jpg)
 
 -AK
 
