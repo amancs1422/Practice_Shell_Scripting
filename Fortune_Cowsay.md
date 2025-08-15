@@ -16,6 +16,8 @@
 #### Step 6: We can display other characters as well. Following is an example:
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/a513073d7749af66fb363da3aa10b8ee58c567f1/Images/Fortune_Cowsay6.jpg)
 
+We can add beautiful welcome messages for the Linux machine using this method if we add these kind of commands in the "-profile" file.
+
 -AK
 
 <!--Refer to this link to find out what other characters can be displayed https://www.geeksforgeeks.org/linux-unix/cool-custom-welcome-messages-linux-terminal/ -->
