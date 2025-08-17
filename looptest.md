@@ -8,6 +8,8 @@ do
 echo $n
 done
 ```
+![]()
+![]()
 ```
 #!/bin/bash
 read -p "Please count to : " n
