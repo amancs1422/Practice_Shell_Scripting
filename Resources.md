@@ -35,7 +35,11 @@
   2. [What all can be displayed other than the measly cow?](https://www.geeksforgeeks.org/linux-unix/cool-custom-welcome-messages-linux-terminal/)
 </details>
 
-Bash Scripting loops: https://www.geeksforgeeks.org/linux-unix/bash-scripting-for-loop/
+<details>
+  <summary>Loops in Bash Scripting</summary>
+  
+  1. [Geeks for Geeks - Loops](https://www.geeksforgeeks.org/linux-unix/bash-scripting-for-loop/)
+</details>
 <!-- -->
 <!-- -->
 <!-- -->
