@@ -9,7 +9,7 @@ do
 echo $n
 done
 ```
-![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/5a9db13794183236b249f26699dfad44db26ecc3/Images/looptest2.jpg)
+![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/5a9db13794183236b249f26699dfad44db26ecc3/Images/looptest2.jpg)<br>
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/6a24a5502948aeefee72f2690592910081391e33/Images/looptest3.jpg)
 ```
 #!/bin/bash
