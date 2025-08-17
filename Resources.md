@@ -40,6 +40,7 @@
   
   1. [Geeks for Geeks - Loops](https://www.geeksforgeeks.org/linux-unix/bash-scripting-for-loop/)
   2. [W3Schools - Loops](https://www.w3schools.com/bash/bash_loops.php)
+  3. [Ryans Tutorials - Loops](https://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php)
 </details>
 <!-- -->
 <!-- -->
