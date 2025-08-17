@@ -39,6 +39,7 @@
   <summary>Loops in Bash Scripting</summary>
   
   1. [Geeks for Geeks - Loops](https://www.geeksforgeeks.org/linux-unix/bash-scripting-for-loop/)
+  2. [W3Schools - Loops](https://www.w3schools.com/bash/bash_loops.php)
 </details>
 <!-- -->
 <!-- -->
