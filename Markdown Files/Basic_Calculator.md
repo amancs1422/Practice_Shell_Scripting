@@ -1,7 +1,7 @@
 <!---->
 # How to make a basic arithmetic calculator using Bash Scripting?
 
-#### Use the following script to make a basic arithmetic calculator where you can choose which arithmetic operation to be performed:
+### Use the following script to make a basic arithmetic calculator where you can choose which arithmetic operation to be performed:
 ```
 #!/bin/bash
 read -p "Enter the operation you want to perform (+,-,/,*) : " op
