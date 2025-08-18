@@ -17,7 +17,7 @@ echo "The result of $num1 $op $num2 is : $result"
 sudo apt install bc
 ```
 ```
-sudo apt updates
+sudo apt update
 ```
 <!---->
 <!---->
