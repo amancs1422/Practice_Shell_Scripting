@@ -1,4 +1,6 @@
-<!---->
+<!-- Author: Aman Kumar -->
+<!-- Created On : 18-08-2025 -->
+<!-- This markdown displays a basic way to formulate a calculator.-->
 # How to make a basic arithmetic calculator using Bash Scripting?
 
 ### Use the following script to make a basic arithmetic calculator where you can choose which arithmetic operation to be performed:
@@ -19,8 +21,6 @@ sudo apt install bc
 ```
 sudo apt update
 ```
-<!---->
-<!---->
 <!---->
 <!---->
 <!-- End of File -->
