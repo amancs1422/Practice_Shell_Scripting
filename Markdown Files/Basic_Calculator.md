@@ -11,6 +11,14 @@ result=$(echo "$num1 $op $num2" | bc -l)
 echo "The result of $num1 $op $num2 is : $result"
 ```
 ##### We use the -p with read so it displays a message before waiting for user input.
+##### Use bc for floating-point support. Otherwise using $op will give an error.
+##### If bc package doesn't exist in your linux machine it can be downloaded using :
+```
+sudo apt install bc
+```
+```
+sudo apt updates
+```
 <!---->
 <!---->
 <!---->
