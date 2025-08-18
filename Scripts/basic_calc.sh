@@ -1,6 +1,6 @@
 #
 # Script Name: basic_calc.sh
-# Description: This script is used to perform the operations of a very basic arithmetic calculator. 
+# Description: This script is used to perform the operations of a very basic arithmetic calculator.
 # Author: Aman Kumar
 # Date: 2025-07-30
 # Version: 1.0
