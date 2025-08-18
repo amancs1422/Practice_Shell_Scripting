@@ -1,6 +1,6 @@
 #
-# Script Name: login_check.sh
-# Description: This script performs basic arithmetic addition on user provided numbers. 
+# Script Name: basic_calc.sh
+# Description: This script is used to perform the operations of a very basic arithmetic calculator. 
 # Author: Aman Kumar
 # Date: 2025-07-30
 # Version: 1.0
