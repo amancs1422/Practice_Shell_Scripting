@@ -12,7 +12,7 @@ read -p "Enter the second number : " num2
 result=$(echo "$num1 $op $num2" | bc -l)
 echo "The result of $num1 $op $num2 is : $result"
 ```
-##### We use the -p with read so it 
+##### We use the -p with read so it displays a message before waiting for user input.
 <!---->
 <!---->
 <!---->
