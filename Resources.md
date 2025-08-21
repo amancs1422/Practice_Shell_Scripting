@@ -48,9 +48,8 @@
   <summary>Archiving using tar</summary>
 
   1. [Command Linux - tar manual](https://www.commandlinux.com/man-page/man1/tar.1.html)
-  2. [Command Linux - tar manual](https://www.man7.org/linux/man-pages/man1/tar.1.html)
-  3. [Command Linux - tar manual]()
-  4. [Command Linux - tar manual]()
+  2. [Man 7 Org - tar manual](https://www.man7.org/linux/man-pages/man1/tar.1.html)
+  3. [Tar manual](https://linux.die.net/man/1/tar)
 </details>
 <!-- -->
 <!-- -->
