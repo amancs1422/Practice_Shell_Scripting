@@ -9,4 +9,8 @@ ls -latr
 tar -cf <archive_name>.tar <filenames_to_be_archived>
 ```
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/992182955a6d25076b9a0ea7d1b68e5db12ca5d2/Images/Text_Archive2.jpg)
+### We can validate that the desired files have been archived by verbosely listing the archive file contents.
+```
+tar -tvf <archive_name>.tar
+```
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/992182955a6d25076b9a0ea7d1b68e5db12ca5d2/Images/Text_Archive3.jpg)
