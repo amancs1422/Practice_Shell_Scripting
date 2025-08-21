@@ -37,11 +37,20 @@
 
 <details>
   <summary>Loops in Bash Scripting</summary>
-  
+
   1. [Geeks for Geeks - Loops](https://www.geeksforgeeks.org/linux-unix/bash-scripting-for-loop/)
   2. [W3Schools - Loops](https://www.w3schools.com/bash/bash_loops.php)
   3. [Ryans Tutorials - Loops](https://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php)
   4. [LearnLinuxTV - Loops](https://www.youtube.com/watch?v=HvzI7c3eK5k&pp=ygUUbG9vcHMgYmFzaCBzY3JpcHRpbmc%3D)
+</details>
+
+<details>
+  <summary>Archiving using tar</summary>
+
+  1. [Command Linux - tar manual](https://www.commandlinux.com/man-page/man1/tar.1.html)
+  2. [Command Linux - tar manual](https://www.man7.org/linux/man-pages/man1/tar.1.html)
+  3. [Command Linux - tar manual]()
+  4. [Command Linux - tar manual]()
 </details>
 <!-- -->
 <!-- -->
