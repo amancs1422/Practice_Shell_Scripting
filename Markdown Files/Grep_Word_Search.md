@@ -1,3 +1,4 @@
+<!-- Author: Aman Kumar -->
 # How to search a word in a text file and get the line numbers for the word?
 ### 1. Create a text file using a text editor of your choice (Nano, Vim, Emacs). PFB example document.
 ![](https://github.com/amancs1422/Practice_Linux/blob/main/Images/Lorem_Grep_Count.jpg)<br>
