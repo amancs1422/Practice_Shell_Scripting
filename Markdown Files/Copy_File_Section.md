@@ -1,3 +1,5 @@
+<!-- Author: Aman Kumar -->
+
 # How to copy a particular section of one file to another file?
 
 ### There are several methods of achieving this:
