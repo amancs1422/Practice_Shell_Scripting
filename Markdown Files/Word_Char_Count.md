@@ -1,3 +1,4 @@
+<!-- Author: Aman Kumar -->
 # How can we count the characters, lines and words in a text file?
 
 ### 1. Create a text file using a text editor of your choice (Nano, Vim, Emacs). PFB example document.
