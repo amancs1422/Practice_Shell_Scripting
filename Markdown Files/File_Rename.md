@@ -7,3 +7,6 @@ sudo apt update
 ```
 rename 's/.txt/.md/' *.txt
 ```
+![]()
+![]()
+![]()
