@@ -15,3 +15,5 @@ echo $DATE_STAMP
 mv copied_files1.txt copied_files1_${DATE_STAMP}.txt
 ```
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/aca451a993a5d759551deaae4225eecc6695b0ae/Images/Append_Time_Stamp3.jpg)
+
+-AK
