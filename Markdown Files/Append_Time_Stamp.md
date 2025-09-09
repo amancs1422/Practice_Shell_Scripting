@@ -1,3 +1,4 @@
+# How to append the timestamp to a filename?
 ```
 mv copied_files1.txt copied_files1_${DATE_STAMP}.txt
 ```
