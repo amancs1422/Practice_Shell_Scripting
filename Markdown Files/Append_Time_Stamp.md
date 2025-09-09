@@ -1,12 +1,12 @@
 # How to append the timestamp to a filename?
 ```
-mv copied_files1.txt copied_files1_${DATE_STAMP}.txt
-```
-```
 DATE_STAMP=$(date +%Y%m%d_%H%M%S)
 ```
 ```
 echo $DATE_STAMP
+```
+```
+mv copied_files1.txt copied_files1_${DATE_STAMP}.txt
 ```
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/8a17bd51d1ba5cdeb25f0f27b6c68338e4655eef/Images/Append_Time_Stamp1.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/aca451a993a5d759551deaae4225eecc6695b0ae/Images/Append_Time_Stamp2.jpg)
