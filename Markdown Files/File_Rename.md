@@ -1,6 +1,6 @@
 <!-- Author: Aman Kumar -->
-<!-- Created On : 18-08-2025 -->
-<!-- This markdown displays a basic way to formulate a calculator.-->
+<!-- Created On : 04-09-2025 -->
+<!-- This markdown file displays how to rename a file based on a particular pattern.-->
 ```
 sudo apt install rename
 ```
