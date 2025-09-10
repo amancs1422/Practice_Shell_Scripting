@@ -4,7 +4,7 @@
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/28d332569eb57949b52c0a7c4a000ba1c3ab6523/Images/Auto_User_Creation4.jpg)
 
 # Automate User Creation in Linux
-### Step 1: Create the following script in your favorite text editor.
+### :minidisc: Step 1: Create the following script in your favorite text editor.
 ```
 #!/bin/bash
 read -p "Enter the username :" username
