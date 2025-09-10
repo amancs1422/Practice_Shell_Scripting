@@ -1,3 +1,6 @@
+<!-- Author: Aman Kumar -->
+<!-- Created On : 10-09-2025 -->
+<!-- This markdown fie displays a way to automate user creation process in Linux.-->
 # :minidisc: Automate User Creation in Linux
 ### Step 1: Create the following script in your favorite text editor.
 ```
@@ -15,3 +18,8 @@ chmod +x auto_user_creation.sh
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/bd84536e6ff63fc5db2becd2400791498762a9c7/Images/Auto_User_Creation3.jpg)
 ### Step 4: You would be able to view a new entry(username) in the /etc/passwd file.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/bd84536e6ff63fc5db2becd2400791498762a9c7/Images/Auto_User_Creation4.jpg)
+<!---->
+<!---->
+<!-- End of File -->
+<!---->
+<!---->
