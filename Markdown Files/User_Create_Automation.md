@@ -10,3 +10,7 @@
 read -p "Enter the username :" username
 sudo useradd $username
 ```
+### Step 2: Change the authorization of the script file to make it executable.
+```
+chmod +x auto_user_creation.sh
+```
