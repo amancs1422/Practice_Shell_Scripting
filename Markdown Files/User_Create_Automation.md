@@ -1,4 +1,3 @@
-![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/bd84536e6ff63fc5db2becd2400791498762a9c7/Images/Auto_User_Creation3.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/bd84536e6ff63fc5db2becd2400791498762a9c7/Images/Auto_User_Creation4.jpg)
 
 # :minidisc: Automate User Creation in Linux
@@ -14,3 +13,5 @@ sudo useradd $username
 chmod +x auto_user_creation.sh
 ```
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/01130e5c448955e096ca73d4bd5411e1c4f46422/Images/Auto_User_Creation2.jpg)
+### Step 3: Execute the script file as below.
+![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/bd84536e6ff63fc5db2becd2400791498762a9c7/Images/Auto_User_Creation3.jpg)
