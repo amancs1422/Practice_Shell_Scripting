@@ -13,6 +13,12 @@
 </details>
 
 <details>
+  <summary>Github/Markdown Tools</summary>
+
+  1. [Markdown Icons](https://gist.github.com/rxaviers/7360908)
+</details>
+
+<details>
   <summary>Adding comments in markdown:</summary>
 
   1. [How to comment code in Markdown – James Tharpe](https://www.jamestharpe.com/code-comments-markdown/)  
