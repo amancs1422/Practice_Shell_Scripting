@@ -25,7 +25,7 @@ expr num1 % num2
 expr num1 * num2
 ```
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7b24cc166f3f9fa614c3f63e859e9c61c15cf5a0/Images/basic_math2.jpg)
-#### To fix this add an escape character "\" as a prefix to *.
+#### To fix this add an escape character ""\"" as a prefix to *.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/7b24cc166f3f9fa614c3f63e859e9c61c15cf5a0/Images/basic_math3.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/e7c302a7e3ba71ce3034714ee665656d5ce869c9/Images/basic_math4.jpg)
 -AK
