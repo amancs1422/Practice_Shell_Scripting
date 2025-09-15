@@ -6,7 +6,7 @@
 
 #### We can use the keyword "expr" to perform mathematic operations in Linux terminal.
 
-#### We can use the below commands to perform the 4 basic operations:
+#### We can use the below commands to perform the basic operations:
 ```
 expr num1 + num2
 ```
