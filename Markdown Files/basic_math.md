@@ -32,7 +32,7 @@ expr num1 * num2
 num1=100
 num2=200
 ```
-![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/e7c302a7e3ba71ce3034714ee665656d5ce869c9/Images/basic_math4.jpg)
+![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/e7c302a7e3ba71ce3034714ee665656d5ce869c9/Images/basic_math4.jpg)<br>
 -AK
 <!---->
 <!---->
