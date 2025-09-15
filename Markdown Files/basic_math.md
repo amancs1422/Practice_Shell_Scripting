@@ -4,7 +4,7 @@
 <!---->
 # Basic Mathematic Operations in Terminal
 
-### We can use the keyword expr(expressions) to perform mathematic operations in Linux terminal.
+#### We can use the keyword "expr" to perform mathematic operations in Linux terminal.
 -AK
 <!---->
 <!---->
