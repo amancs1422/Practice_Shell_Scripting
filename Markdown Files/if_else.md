@@ -23,6 +23,6 @@ chmod +x <script_name.sh>
 #### Step 3 : Voila!! You now have a working automation to check student results.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/16e5438c045714d41ea6bb03cad999838398e907/Images/if_else3.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/16e5438c045714d41ea6bb03cad999838398e907/Images/if_else4.jpg)<br>
-Please use spaces before and after "$marks -ge 80" otherwise you might get an error as follows:
+Please use spaces before and after "$marks -ge 80" otherwise you might get an error as follows:<br>
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/f1d9e0daef6e8d848fc191b4c1ecd91796ecdd9b/Images/if_else5.jpg)<br>
 -AK
