@@ -51,6 +51,11 @@
   2. [Man 7 Org - tar manual](https://www.man7.org/linux/man-pages/man1/tar.1.html)
   3. [Tar manual](https://linux.die.net/man/1/tar)
 </details>
+<details>
+  <summary>Github/Markdown Tools</summary>
+
+  1. [Markdown Icons](https://gist.github.com/rxaviers/7360908)
+</details>
 <!-- -->
 <!-- -->
 <!-- -->
