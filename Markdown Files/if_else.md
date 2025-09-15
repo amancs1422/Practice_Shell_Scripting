@@ -1,3 +1,4 @@
+## Result Automation using If-Else statements.
 ```
 read -p "Enter the student's marks: " marks
 
