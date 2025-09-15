@@ -21,3 +21,5 @@ chmod +x <script_name.sh>
 ### Step 3 : Voila!! You now have a working automation to check student results.
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/16e5438c045714d41ea6bb03cad999838398e907/Images/if_else3.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/16e5438c045714d41ea6bb03cad999838398e907/Images/if_else4.jpg)
+
+-AK
