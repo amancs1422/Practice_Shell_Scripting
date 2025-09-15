@@ -13,6 +13,10 @@ fi
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/f51a57299acaa6b3735a31dcab90bd94af9e2419/Images/if_else1.jpg)
 
 Here -ge means greater than or equal to.<br>
+### Step 2 : Make the script file executable.
+```
+chmod +x <script_name.sh>
+```
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/d3df229002aa051c3d220737355816d348082e1f/Images/if_else2.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/16e5438c045714d41ea6bb03cad999838398e907/Images/if_else3.jpg)
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/16e5438c045714d41ea6bb03cad999838398e907/Images/if_else4.jpg)
