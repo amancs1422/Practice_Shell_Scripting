@@ -1,4 +1,4 @@
-## Usage of Tree command
+## Usage of Tree command :deciduous_tree: :evergreen_tree:
 
 #### Step 1 : Use the following commands to install the tree library if tree command is not available in your terminal.
 ```
