@@ -1,2 +1,2 @@
 # Practice_Shell _Scripting
-Train everyday!!!
+Train everyday!!! code everyday
