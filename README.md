@@ -1,2 +1,2 @@
-# Practice_Shell _Scripting
+# Everyday_Shell _Scripting
  
