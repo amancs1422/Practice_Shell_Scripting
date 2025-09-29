@@ -1,2 +1,2 @@
-# Everyday_Shell _Scripting
+# Everyday Shell Scripting
  
