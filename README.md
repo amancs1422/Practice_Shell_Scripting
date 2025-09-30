@@ -1,2 +1,2 @@
-# Everyday Shell Scripting
+# Everyday  Scripting
  
