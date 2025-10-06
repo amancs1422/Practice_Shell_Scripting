@@ -46,6 +46,8 @@ echo -e "\n"
 ```
 Once you execute this script you will see the below output.<br>
 <br>![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/df8dca721b0e256c0df156170bc055458a36d85d/Images/bash_op_color4.jpg)
+
+-AK
 <!---->
 <!---->
 <!-- End of File -->
