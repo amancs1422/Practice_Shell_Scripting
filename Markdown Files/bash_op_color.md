@@ -2,7 +2,7 @@
 <!-- Created On : 02-10-2025 -->
 <!-- This markdown file explains how we can change/add color to the bash script output.-->
 <!---->
-# How can we change the color of the output of the bash script?
+# How can we change the color of the output of a bash script?
 
 We can use ANSI codes to add color to the output of the bash script. Following are the ANSI codes for few primary colors:
 ```
