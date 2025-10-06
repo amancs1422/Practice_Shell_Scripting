@@ -16,6 +16,7 @@
   <summary>Github/Markdown Tools</summary>
 
   1. [Markdown Icons](https://gist.github.com/rxaviers/7360908)
+  2. [Bash Color Output](https://www.putorius.net/color-output-bash.html)
 </details>
 
 <details>
