@@ -26,15 +26,14 @@ echo -e "\n"
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/df8dca721b0e256c0df156170bc055458a36d85d/Images/bash_op_color3.jpg)
 
 ### Step 3 : Execute the script.
-You may however get an output as below:
+You may however get an output as below. It's nothing but the curl command's progress bar.
 ```
-this is the output i'm getting. why? 
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100    76  100    76    0     0    134      0 --:--:-- --:--:-- --:--:--   134
 What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 ```
-### Step 4 : To avoid 
+### Step 4 : To avoid the above error add -e before using the color variables as follows:
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/df8dca721b0e256c0df156170bc055458a36d85d/Images/bash_op_color4.jpg)
 <!---->
 <!---->
