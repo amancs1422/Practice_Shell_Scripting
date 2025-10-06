@@ -35,6 +35,15 @@ What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 ```
 ### Step 4 : To avoid the above error add -e before using the color variables as follows:
 ![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/404ff5c48596473358b8057d70746daea985d3be/Images/bash_op_color2.jpg)<br>
+```
+#!/bin/bash
+echo -e "\n"
+RED='\033[0;31m'
+RESET='\033[0m'   # <--- you need this
+joke=$(curl -s -H "Accept: text/plain" https://icanhazdadjoke.com/)
+echo -e "${RED}${joke}${RESET}"
+echo -e "\n"
+```
 Once you execute this script you will see the below output.<br>
 <br>![](https://github.com/amancs1422/Practice_Shell_Scripting/blob/df8dca721b0e256c0df156170bc055458a36d85d/Images/bash_op_color4.jpg)
 <!---->
